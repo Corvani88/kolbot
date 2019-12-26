@@ -281,7 +281,6 @@ function LoadConfig() {
 	//Config.PickitFiles.push("ladder_start.nip");
 	Config.PickitFiles.push("ladder_editable.nip");
 	Config.PickitFiles.push("ladder_perfect.nip");
-	Config.PickitFiles.push("ebay.nip");
 	Config.PickitFiles.push("LLD.nip");
 	Config.PickRange = 40; // Pick radius
 	Config.FastPick = false; // Check and pick items between attacks
